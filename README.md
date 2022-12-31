@@ -8,6 +8,8 @@ First the instructions of the program :
 1. Unzip the file and compile using fltk-config --compile wordle.cpp
 2. Run the code using ./wordle
 
+[5x5:wordle](https://github.com/Ihsoj-Mahos/CS154-wordle/blob/main/5-wordle.png)
+
 Features : 
 1. Based on the popular wordle game which took the world by storm recently
 2. Green : Correct letter as well as position, Yellow : Correct letter but wrong position, Gray : Wrong letter
